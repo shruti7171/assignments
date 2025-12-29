@@ -1,0 +1,13 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.card {
+    max-width: 400px;
+    margin: auto;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+}
